@@ -1,2 +1,3 @@
-# my-portfolio
-This is my professional portfolio
+# Colin Chalmers portfolio
+
+This is my professional portfolio it uses AWS and Reactjs
