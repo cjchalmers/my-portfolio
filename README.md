@@ -6,3 +6,5 @@ This is my professional portfolio it uses AWS and Reactjs
 
 Git and github
 SSH
+html
+CSS
