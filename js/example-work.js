@@ -21,7 +21,7 @@ class ExampleWork extends React.Component {
 class ExampleWorkBubble extends React.Component {
     render() {
       let example = this.props.example;
-      return ( 
+      return (
           <div className="section__exampleWrapper">
             <div className="section__example">
               <img alt={ example.image.desc }
@@ -40,3 +40,4 @@ class ExampleWorkBubble extends React.Component {
 }
 
 export default ExampleWork;
+export { ExampleWorkBubble };
